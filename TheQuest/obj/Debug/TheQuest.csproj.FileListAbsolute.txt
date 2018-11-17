@@ -1,0 +1,10 @@
+F:\OneDrive\STUDIO INDIVIDUALE\Studio C# - libro\Lab2\TheQuest\TheQuest\bin\Debug\TheQuest.exe.config
+F:\OneDrive\STUDIO INDIVIDUALE\Studio C# - libro\Lab2\TheQuest\TheQuest\bin\Debug\TheQuest.exe
+F:\OneDrive\STUDIO INDIVIDUALE\Studio C# - libro\Lab2\TheQuest\TheQuest\bin\Debug\TheQuest.pdb
+F:\OneDrive\STUDIO INDIVIDUALE\Studio C# - libro\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.csprojAssemblyReference.cache
+F:\OneDrive\STUDIO INDIVIDUALE\Studio C# - libro\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.Form1.resources
+F:\OneDrive\STUDIO INDIVIDUALE\Studio C# - libro\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+F:\OneDrive\STUDIO INDIVIDUALE\Studio C# - libro\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.cache
+F:\OneDrive\STUDIO INDIVIDUALE\Studio C# - libro\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.CoreCompileInputs.cache
+F:\OneDrive\STUDIO INDIVIDUALE\Studio C# - libro\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.exe
+F:\OneDrive\STUDIO INDIVIDUALE\Studio C# - libro\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.pdb
